@@ -1,0 +1,21 @@
+# RF01 - Registro de usuarios
+
+## Objetivo
+
+Permitir que una persona cree una cuenta en Urban Home y seleccione su rol como arrendador o arrendatario.
+
+## Descripción
+
+El sistema debe permitir el registro seguro de usuarios. Durante el proceso, la persona debe seleccionar el rol con el que utilizará la plataforma.
+
+## Criterios de aceptación
+
+- El usuario puede seleccionar el rol de arrendador o arrendatario.
+- El sistema valida que el correo electrónico no esté registrado previamente.
+- El sistema solicita los datos obligatorios para el registro.
+- El sistema muestra un mensaje de error cuando hay campos vacíos o con formato incorrecto.
+- El sistema envía una confirmación al correo electrónico después del registro.
+
+## Estado
+
+En análisis y documentación.
